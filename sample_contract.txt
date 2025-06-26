@@ -1,0 +1,27 @@
+
+Service Agreement
+
+This Service Agreement ("Agreement") is made between AlphaTech Inc. ("Provider") and the Client.
+
+1. Scope of Work:
+Provider agrees to deliver software development and cloud support services as per the attached Statement of Work (SOW).
+
+2. Payment Terms:
+Client agrees to pay Provider a monthly retainer of $5,000. Late payments may incur a 2% fee.
+
+3. Confidentiality:
+Both parties agree to maintain the confidentiality of proprietary information.
+
+4. Termination Clause:
+Either party may terminate this Agreement with 30 days written notice.
+
+5. Data Security:
+Provider shall implement appropriate technical and organizational measures to ensure data protection and comply with relevant data privacy laws, including GDPR.
+
+6. Limitation of Liability:
+Provider's liability shall not exceed the total fees paid by the Client in the last 6 months.
+
+7. Governing Law:
+This Agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date first written above.
